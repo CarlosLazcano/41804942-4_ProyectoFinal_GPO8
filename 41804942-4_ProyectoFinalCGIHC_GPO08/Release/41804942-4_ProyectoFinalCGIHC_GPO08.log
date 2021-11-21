@@ -1,0 +1,26 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: El directorio intermedio (Release\) contiene archivos compartidos de otro proyecto (Practica05.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  41804942-4_proyectoFinsl_GPO08.cpp
+C:\Users\USER\Desktop\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_proyectoFinsl_GPO08.cpp(185,30): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\USER\Desktop\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_proyectoFinsl_GPO08.cpp(500,34): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\USER\Desktop\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_proyectoFinsl_GPO08.cpp(528,35): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\USER\Desktop\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_proyectoFinsl_GPO08.cpp(540,35): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\USER\Desktop\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_proyectoFinsl_GPO08.cpp(575,35): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\USER\Desktop\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_proyectoFinsl_GPO08.cpp(588,35): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\USER\Desktop\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_proyectoFinsl_GPO08.cpp(674,19): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\USER\Desktop\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_proyectoFinsl_GPO08.cpp(697,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\USER\Desktop\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_proyectoFinsl_GPO08.cpp(698,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\USER\Desktop\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_proyectoFinsl_GPO08.cpp(702,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\USER\Desktop\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_proyectoFinsl_GPO08.cpp(703,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\USER\Desktop\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_proyectoFinsl_GPO08.cpp(705,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\USER\Desktop\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_ProyectoFinalCGIHC_GPO08\41804942-4_proyectoFinsl_GPO08.cpp(706,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+soil2-debug.lib(SOIL2.obj) : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/OPT:ICF'
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRTD' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 620 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(etc1_utils.obj)' o en 'C:\Users\USER\Desktop\41804942-4_ProyectoFinalCGIHC_GPO08\Release\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_DXT.obj)' o en 'C:\Users\USER\Desktop\41804942-4_ProyectoFinalCGIHC_GPO08\Release\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_helper.obj)' o en 'C:\Users\USER\Desktop\41804942-4_ProyectoFinalCGIHC_GPO08\Release\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(SOIL2.obj)' o en 'C:\Users\USER\Desktop\41804942-4_ProyectoFinalCGIHC_GPO08\Release\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  41804942-4_ProyectoFinalCGIHC_GPO08.vcxproj -> C:\Users\USER\Desktop\41804942-4_ProyectoFinalCGIHC_GPO08\Release\41804942-4_ProyectoFinalCGIHC_GPO08.exe
